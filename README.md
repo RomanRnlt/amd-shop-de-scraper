@@ -19,4 +19,4 @@ This scraper will check if the diffrent GPUs (RX6900XT, RX6800XT_Midnight_Black,
 
 **Mac is the standard.
 For Windows use comment line 32 in.
-For Linux use comment line 35 in.**
+For Linux use comment line 35 in. (in *amdshop.py*)**
