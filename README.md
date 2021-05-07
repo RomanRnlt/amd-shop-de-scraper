@@ -15,6 +15,7 @@ This scraper will check if the diffrent GPUs (RX6900XT, RX6800XT_Midnight_Black,
 
 ## Installation
 1. Just clone project to your IDE or download ZIP file
+2. Open script in your IDE or goto "How to use:"
 
 **Mac is the standard.
 For Windows use comment line 32 in.
