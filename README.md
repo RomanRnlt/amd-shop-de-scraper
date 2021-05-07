@@ -11,7 +11,7 @@ This scraper will check if the diffrent GPUs (RX6900XT, RX6800XT_Midnight_Black,
 2. Wait until chrome tab with specific GPU opens
 3. Having fun while buying your dream GPU
 
-To stop script, just go to your IDE/terminal/cmd (where you start the script) and hit *ctrl + c*
+**To stop script, just go to your IDE/terminal/cmd (where you start the script) and hit *ctrl + c*.**
 
 ## Installation
 1. Just clone project to your IDE or download ZIP file
